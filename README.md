@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a company that focused on identity management. I am a part of decentralized authentication team.
+I'm currently working on a company that focused on Security and Identity management. I am a part of decentralized Identity and AI team.
 
 
 ## 🌐 Socials:
